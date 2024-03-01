@@ -1,0 +1,4 @@
+креира копија од објектот и сите негови параметри
+clone(deep copy) vs shallow copy
+Prototype Registry - catalog, централизирано место за чување на
+прототипите кои се користат начесто HashMap<Strin,Object>

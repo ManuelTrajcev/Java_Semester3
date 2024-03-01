@@ -1,0 +1,5 @@
+трансформира конкретни однесувања во
+stand-alone objects наречени handlers
+-behavioral d.p.
+
+ConcreteHandler->BaseHandler(optional)->Handler(interface)->Client
